@@ -7,10 +7,10 @@ This repository contains the implementation and study of seven **nature-inspired
 - Genetic Algorithm (GA)
 - Particle Swarm Optimization (PSO)
 - Ant Colony Optimization (ACO)
-- Artificial Bee Colony (ABC)
-- Simulated Annealing (SA)
-- Differential Evolution (DE)
 - Cuckoo Search (CS)
+- Grey Wolf Optimizer (GWO)
+- Parallel Cellular Algorithm (PCA)
+- Gene Expression Algorithm (GEA)
 
 ## Objective
 To understand how nature-inspired algorithms can be used to solve complex optimization problems and find optimal or near-optimal solutions.
